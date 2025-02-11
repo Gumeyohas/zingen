@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
+  <img alt="Zingen" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -23,22 +23,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-- JavaScript
 
 Bibliotecas
 
 - [Google Fonts](https://fonts.google.com/)
-- [SwipeJS](https://github.com/nolimits4web/Swiper)
-- [ScrollReveal](https://scrollrevealjs.org)
-
-Utilitários
-
-- [randomuser.me](https://randomuser.me/photos)
-- [IconMoon](https://icomoon.io/app/#/select)
+- [Phosphor Icons](https://phosphoricons.com/)
 
 ## 💻 Projeto
 
-OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer
+Zingen é um aplicativo de Karaokê e nesse projeto desenvolvemos a landing page de marketing completa e responsiva desse aplicativo para usar em diversos tipos de micro, pequena e média empresas. Esse é um dos projetos desenvolvidos na formação Full-Stack da Rocketseat. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer
 
 ## 🔖 Layout
 
@@ -49,18 +42,3 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 ---
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->

@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Zingen" src="assets/icons/Logo.svg" width="100%">
+  <img alt="Zingen" src="assets/icons/Logo.svg" width="50%">
 </p>
 
 ## 🚀 Tecnologias
